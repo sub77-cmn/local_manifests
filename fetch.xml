@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+ <remote  name="ms"
+          fetch="ssh://git@github.com/Nougat-ms013g/" />
+ <remote  name="dun"
+          fetch="ssh://git@github.com/sub77-dun/" />
+ <remote  name="sub"
+          fetch="ssh://git@github.com/sub77-cmn/" />
+ <remote  name="mtk"
+          fetch="ssh://git@github.com/sub77-mtk/" />
+ <remote  name="sphere"
+          fetch="ssh://git@git.sphere.ly/matisse" />
+ <remote  name="bb"
+          fetch="https://bitbucket.org" />
+          
+  <project
+   name="android_vendor_extra"
+   path="vendor/extra"
+   remote="cmn"
+   revision="cm-14.0"
+  />
+  
+</manifest>
