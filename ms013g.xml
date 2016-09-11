@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- Device -->
+  <project
+   name="android_device_samsung_ms013g"
+   path="device/samsung/ms013g"
+   remote="sub"
+   revision="cm-14.0"
+  />
+  <!--project
+   name="android_device_samsung_msm8226-common"
+   path="device/samsung/msm8226-common"
+   remote="sub"
+   revision="cm-14.0"
+  />-->
+  <!-- Kernel -->
+  <project
+   name="android_kernel_samsung_ms013g"
+   path="kernel/samsung/ms013g"
+   remote="sub"
+   revision="cm-14.0"
+  />
+  <!-- Vendor -->
+  <project
+   name="android_vendor_samsung_ms013g"
+   path="vendor/samsung/ms013g"
+   remote="sub"
+   revision="cm-14.0"
+  />
+</manifest>
