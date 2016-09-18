@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="android_packages_apps_OpenDelta" path="packages/apps/OpenDelta" remote="sub" revision="cm-14.0" />
+</manifest>
